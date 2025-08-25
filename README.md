@@ -2,8 +2,6 @@
 
 Este projeto utiliza overlay [Wplace-BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble).
 
-757 1179 580 284###  Localização do Template
-
 - `TL X: 757`, `TL Y: 1179`
 - `PX X: 580`, `PX Y: 284`
 
