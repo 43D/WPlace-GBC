@@ -7,7 +7,7 @@ Este projeto utiliza overlay [Wplace-BlueMarble](https://github.com/SwingTheVine
 
 [Wplace 📍](https://wplace.live/?lat=-26.318548297974367&lng=-46.831553065722666&zoom=16.925473372883097).
 
-[Download IMG (Modelo 3](https://raw.githubusercontent.com/43D/WPlace-GBC/refs/heads/main/modelo%203.png)
+[Download IMG (Modelo de referência 04](https://raw.githubusercontent.com/43D/WPlace-GBC/refs/heads/main/modelo%204.png)
 
 
 ## Agradecimentos
