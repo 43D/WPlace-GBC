@@ -8,5 +8,5 @@
 [Wplace 📍](https://wplace.live/?lat=-26.463117&lng=-46.519656&zoom=16.925473372883097).
 
 
-![Competidor 1: Cr Re](https://raw.githubusercontent.com/43D/WPlace-GBC/refs/heads/main/funny/velha/crre.png "Competidor 1: Cr Re")
-![Competidor 2: Rot](https://raw.githubusercontent.com/43D/WPlace-GBC/refs/heads/main/funny/velha/rot.png "Competidor 2: Rot")
+<img src="https://raw.githubusercontent.com/43D/WPlace-GBC/refs/heads/main/funny/velha/crre.png" alt="Competidor 1: Cr Re" width="300" height="auto">
+<img src="https://raw.githubusercontent.com/43D/WPlace-GBC/refs/heads/main/funny/velha/rot.png" alt="Competidor 2: Rot" width="300" height="auto">
