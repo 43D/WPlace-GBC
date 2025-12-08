@@ -15,3 +15,7 @@ Este projeto utiliza overlay [Wplace-BlueMarble](https://github.com/SwingTheVine
 ## Agradecimentos
  - Cr Re #9326 (WPlace)
  - GrandBlanket #10654 (WPlace)
+
+
+### Extras
+- [Jogo da Velha 06/12/2025 até --/12/2025](funny/velha/README.md)
