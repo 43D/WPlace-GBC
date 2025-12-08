@@ -5,4 +5,4 @@
 [Wplace 📍](https://wplace.live/?lat=-26.458849334352266&lng=-46.82417025322266&zoom=16)
 
 
-<img src="https://raw.githubusercontent.com/43D/WPlace-GBC/refs/heads/main/funny/et/et.png" alt="Competidor 2: Rot" width="300" height="auto">
+<img src="https://raw.githubusercontent.com/43D/WPlace-GBC/refs/heads/main/funny/et/et.png" alt="ET Bilu" width="300" height="auto">
