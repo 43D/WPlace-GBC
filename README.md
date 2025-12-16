@@ -19,4 +19,4 @@ Este projeto utiliza overlay [Wplace-BlueMarble](https://github.com/SwingTheVine
 
 ### Extras
 - [ET Bilu (08/11/2025)](funny/et/README.md)
-- [Jogo da Velha 06/12/2025 até --/12/2025](funny/velha/README.md) 
+- [Jogo da Velha 06/12/2025 até 14/12/2025](funny/velha/README.md) 

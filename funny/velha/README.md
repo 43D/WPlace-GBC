@@ -1,4 +1,4 @@
-# Jogo da Velha 06/12/2025 até --/12/2025
+# Jogo da Velha 06/12/2025 até 14/12/2025
 
 ## Cr Re #9326 vs Rot #814686
 
@@ -9,3 +9,10 @@
 
 
 <img src="https://raw.githubusercontent.com/43D/WPlace-GBC/refs/heads/main/funny/velha/crre.png" alt="Competidor 1: Cr Re" width="300" height="auto"> <img src="https://raw.githubusercontent.com/43D/WPlace-GBC/refs/heads/main/funny/velha/rot.png" alt="Competidor 2: Rot" width="300" height="auto">
+
+
+<br>
+<br>
+
+### Resultado Final: Vitória de Rot #814686
+<img src="https://raw.githubusercontent.com/43D/WPlace-GBC/refs/heads/main/funny/velha/result.png" alt="Resultado Final" width="500" height="auto">
