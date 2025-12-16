@@ -13,8 +13,9 @@ Este projeto utiliza overlay [Wplace-BlueMarble](https://github.com/SwingTheVine
 [Timelapse em WPlace Archive](https://wplace.eralyon.net/?lat=-26.409824&lng=-46.707246&zoom=11.26&version=v33.144)
 
 ## Agradecimentos
- - Cr Re #9326 (WPlace)
- - GrandBlanket #10654 (WPlace)
+ - Cr Re 🇧🇷 #9326 (WPlace)
+ - GrandBlanket 🇧🇷 #10654 (WPlace)
+ - Rot 🇸🇰 #814686 (WPlace)
 
 
 ### Extras
