@@ -13,10 +13,12 @@ Este projeto utiliza overlay [Wplace-BlueMarble](https://github.com/SwingTheVine
 [Timelapse em WPlace Archive](https://wplace.eralyon.net/?lat=-26.409824&lng=-46.707246&zoom=11.26&version=v33.144)
 
 ## Agradecimentos
- - Cr Re #9326 <img src='https://raw.githubusercontent.com/madebybowtie/FlagKit/refs/heads/master/Assets/PNG/BR@2x.png?raw=true' width='auto' height='10'> (WPlace)
- - GrandBlanket #10654 <img src='https://raw.githubusercontent.com/madebybowtie/FlagKit/refs/heads/master/Assets/PNG/BR@2x.png?raw=true' width='auto' height='10'> (WPlace)
- - Rot #814686 <img src='https://raw.githubusercontent.com/madebybowtie/FlagKit/refs/heads/master/Assets/PNG/SK@2x.png?raw=true' width='auto' height='10'> (WPlace)
-
+ - Cr Re #9326 (WPlace)
+ - GrandBlanket #10654 (WPlace)
+ - Rot #814686 (WPlace)
+ - Shinalene #2001570 (WPlace)
+ - End #805821 (WPlace)
+ - Soltou-Viveu #53244 (WPlace)
 
 ### Extras
 - [ET Bilu (08/11/2025)](funny/et/README.md)
